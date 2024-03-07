@@ -23,7 +23,7 @@ def extract_frames(video_path, output_folder, frame_interval_sec=1):
             print(f"Frame {frame_count} saved")
         frame_count += 1
 
-        # To break the loop at frame 100
+        # To break the loop at frame 100, remove this to extract the whole video
         if frame_count == 100:
             break
 
@@ -45,4 +45,3 @@ if __name__ == "__main__":
     extract_frames(video_path, output_folder, frame_interval_sec)
 
     print("Frames extraction complete!")
-
