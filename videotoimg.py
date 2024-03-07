@@ -36,9 +36,9 @@ if __name__ == "__main__":
     # In this example, a 30fps video will be extracted every 0.1 seconds
     frame_interval_sec = 0.1
 
-    # # Download video
-    # print("Downloading video...")
-    # download_video(video_url, output_folder)
+    # Download video
+    print("Downloading video...")
+    download_video(video_url, output_folder)
 
     print("Extracting frames from video...")
     video_path = f"{output_folder}/video.mp4"
