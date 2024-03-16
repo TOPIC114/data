@@ -1,0 +1,29 @@
+
+
+Datasets
+
+1. (dataset01): 
+
+name: FOOD-INGREDIENTS detection Computer Vision Project
+source: https://universe.roboflow.com/food-detection-d7q6o/food-ingredients-detection-6ce7j
+description: 
+authority: cite required
+total number of image: 24052
+training set: 22196
+valid set: 1029
+test set: 827
+number of class: 120
+classes: ['Chili Pepper -Khursani-','Mushroom','Egg','Taro Leaves -Karkalo-','Sweet Potato -Suthuni-','Potato','Stinging Nettle -Sisnu-','Beetroot','Green Mint -Pudina-','Taro Root-Pidalu-','Turnip','Capsicum','Snake Gourd -Chichindo-','Fiddlehead Ferns -Niguro-','Pointed Gourd -Chuche Karela-','Bitter Gourd','Bottle Gourd -Lauka-','Palungo -Nepali Spinach-','Cabbage','Radish','Onion Leaves','Brinjal','Sponge Gourd -Ghiraula-','Tomato','Garlic','Masyaura','Okra -Bhindi-','Garden Peas','Red Lentils','Chayote-iskus-','Rayo ko Saag','Lapsi -Nepali Hog Plum-','Bamboo Shoots -Tama-','Artichoke','Beans','Cheese','Asparagus -Kurilo-','Cinnamon','Gundruk','Rice -Chamal-','Banana','Jack Fruit','Carrot','Tree Tomato -Rukh Tamatar-','Cassava -Ghar Tarul-','Avocado','Bread','Nutrela -Soya Chunks-','Broad Beans -Bakullo-','Coriander -Dhaniya-','Corn','Farsi ko Munta','Akabare Khursani','Lemon -Nimbu-','Onion','Cucumber','Pork','Ash Gourd -Kubhindo-','Lime -Kagati-','Black Lentils','Bacon','Garden cress-Chamsur ko saag-','Green Lentils','Chicken Gizzards','Red Beans','Pumpkin -Farsi-','Sajjyun -Moringa Drumsticks-','Chickpeas','Green Brinjal','Buff Meat','Ham','Butter','Mutton','Papaya','Paneer','Broccoli','mayonnaise','Rahar ko Daal','Soyabean -Bhatmas-','kimchi','Beaten Rice -Chiura-','Bethu ko Saag','Sugar','Ketchup','Thukpa Noodles','Cauliflower','Sausage','Cornflakec','noodle','Chowmein Noodles','Salt','Chili Powder','Palak -Indian Spinach-','Moringa Leaves -Sajyun ko Munta-','Soy Sauce','Milk','Green Soyabean -Hariyo Bhatmas-','Tori ko Saag','Chicken','Beef','Olive Oil','seaweed','Tofu','Black beans','Minced Meat','Green Peas','Crab Meat','Strawberry','Ginger','Ice','Water Melon','Wallnut','Long Beans -Bodi-','Yellow Lentils','Pea','Orange','Fish','Apple','Pear','Wheat']
+
+2. (dataset02): 
+
+name: Food ingredient recognition Image Dataset
+source: https://universe.roboflow.com/thanh-huy-phan/food-ingredient-recognition/dataset/4
+description: 3/15 meeting 進度
+authority: cite required
+total number of image: 3409
+training set: 2979
+valid set: 293
+test set: 137
+number of class: 85
+classes: ['oyster','salmon','pasta','butter','almond','potato','beef','toast bread','chilli','mussel','blueberry','onion','mushroom','tomato','shrimp','parmesan cheese','cookie','garlic','tuna','strawberry','bread','mozarella cheese','lemon','cheese','corn','bell pepper','apple','cucumber','milk','brie cheese','broccoli','eggplant','carrot','avocado','kiwi','yogurt','egg','noodle','grape','jam','chicken wing','bacon','green grape','cabbage','pork rib','sweet potato','bean','durian','fish','pork','guava','orange','pumpkin','spring onion','burger','chicken breast','dry grape','ginger','raspberry','scallop','banana','bok choy','chocolate','meat ball','rice','blackberry','cake roll','starfruit','stilton cheese','vegetable','\\','cheddar cheese','cherry','mango','mangoteen','mint','asparagus','bean sprout','cauliflower','green pepper','magarine','papaya','pomegranate','pork belly','salad']
