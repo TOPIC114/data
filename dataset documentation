@@ -27,3 +27,16 @@ valid set: 293
 test set: 137
 number of class: 85
 classes: ['oyster','salmon','pasta','butter','almond','potato','beef','toast bread','chilli','mussel','blueberry','onion','mushroom','tomato','shrimp','parmesan cheese','cookie','garlic','tuna','strawberry','bread','mozarella cheese','lemon','cheese','corn','bell pepper','apple','cucumber','milk','brie cheese','broccoli','eggplant','carrot','avocado','kiwi','yogurt','egg','noodle','grape','jam','chicken wing','bacon','green grape','cabbage','pork rib','sweet potato','bean','durian','fish','pork','guava','orange','pumpkin','spring onion','burger','chicken breast','dry grape','ginger','raspberry','scallop','banana','bok choy','chocolate','meat ball','rice','blackberry','cake roll','starfruit','stilton cheese','vegetable','\\','cheddar cheese','cherry','mango','mangoteen','mint','asparagus','bean sprout','cauliflower','green pepper','magarine','papaya','pomegranate','pork belly','salad']
+
+3. (dataset03):
+
+name: FOOD-INGREDIENTS dataset Computer Vision Project
+source: https://universe.roboflow.com/food-recipe-ingredient-images-0gnku/food-ingredients-dataset
+description: -
+authority: cite required
+total number of image: 9780
+training set: 8376
+valid set: 829
+test set: 575
+number of class: 120
+classes: ['Akabare Khursani', 'Apple', 'Artichoke', 'Ash Gourd -Kubhindo-', 'Asparagus -Kurilo-', 'Avocado', 'Bacon', 'Bamboo Shoots -Tama-', 'Banana', 'Beans', 'Beaten Rice -Chiura-', 'Beef', 'Beetroot', 'Bethu ko Saag', 'Bitter Gourd', 'Black Lentils', 'Black beans', 'Bottle Gourd -Lauka-', 'Bread', 'Brinjal', 'Broad Beans -Bakullo-', 'Broccoli', 'Buff Meat', 'Butter', 'Cabbage', 'Capsicum', 'Carrot', 'Cassava -Ghar Tarul-', 'Cauliflower', 'Chayote-iskus-', 'Cheese', 'Chicken Gizzards', 'Chicken', 'Chickpeas', 'Chili Pepper -Khursani-', 'Chili Powder', 'Chowmein Noodles', 'Cinnamon', 'Coriander -Dhaniya-', 'Corn', 'Cornflakec', 'Crab Meat', 'Cucumber', 'Egg', 'Farsi ko Munta', 'Fiddlehead Ferns -Niguro-', 'Fish', 'Garden Peas', 'Garden cress-Chamsur ko saag-', 'Garlic', 'Ginger', 'Green Brinjal', 'Green Lentils', 'Green Mint -Pudina-', 'Green Peas', 'Green Soyabean -Hariyo Bhatmas-', 'Gundruk', 'Ham', 'Ice', 'Jack Fruit', 'Ketchup', 'Lapsi -Nepali Hog Plum-', 'Lemon -Nimbu-', 'Lime -Kagati-', 'Long Beans -Bodi-', 'Masyaura', 'Milk', 'Minced Meat', 'Moringa Leaves -Sajyun ko Munta-', 'Mushroom', 'Mutton', 'Nutrela -Soya Chunks-', 'Okra -Bhindi-', 'Olive Oil', 'Onion Leaves', 'Onion', 'Orange', 'Palak -Indian Spinach-', 'Palungo -Nepali Spinach-', 'Paneer', 'Papaya', 'Pea', 'Pear', 'Pointed Gourd -Chuche Karela-', 'Pork', 'Potato', 'Pumpkin -Farsi-', 'Radish', 'Rahar ko Daal', 'Rayo ko Saag', 'Red Beans', 'Red Lentils', 'Rice -Chamal-', 'Sajjyun -Moringa Drumsticks-', 'Salt', 'Sausage', 'Snake Gourd -Chichindo-', 'Soy Sauce', 'Soyabean -Bhatmas-', 'Sponge Gourd -Ghiraula-', 'Stinging Nettle -Sisnu-', 'Strawberry', 'Sugar', 'Sweet Potato -Suthuni-', 'Taro Leaves -Karkalo-', 'Taro Root-Pidalu-', 'Thukpa Noodles', 'Tofu', 'Tomato', 'Tori ko Saag', 'Tree Tomato -Rukh Tamatar-', 'Turnip', 'Wallnut', 'Water Melon', 'Wheat', 'Yellow Lentils', 'kimchi', 'mayonnaise', 'noodle', 'seaweed']
